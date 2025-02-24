@@ -1,9 +1,6 @@
 # 🌟 Login Page Design
 
 A modern and elegant login page with animations and gradient design. Perfect for web applications that require an intuitive login interface.
-
-*(Note: For a real example, add a screenshot to the project folder)*
-
 ---
 
 ## 🚀 Features
